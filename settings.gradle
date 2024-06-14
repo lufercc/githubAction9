@@ -1,0 +1,6 @@
+rootProject.name = 'at-09-trello-automation'
+include 'trello-core'
+include 'trello-api'
+include 'countries-api'
+include 'trello-mobile'
+
